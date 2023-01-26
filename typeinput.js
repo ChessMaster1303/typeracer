@@ -1,2 +1,2 @@
 let key = event.key
-document.getElementById("demo").innerHTML = key
+document.getElementById("KeyPressed").innerHTML = key
